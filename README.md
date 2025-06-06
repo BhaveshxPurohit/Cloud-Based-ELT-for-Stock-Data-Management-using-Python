@@ -62,6 +62,9 @@ This project implements an automated, cloud-based ELT (Extract, Load, Transform)
   - Stock trends
   - Financial health (Revenue, Net Income, Assets, Liabilities)
   - Year-over-year company comparisons
+![image](https://github.com/user-attachments/assets/90814de4-4e42-4201-afe3-d190d2ff3bc8)
+![image](https://github.com/user-attachments/assets/d0f9b085-7ea9-4c5b-b777-425d9a9e8c04)
+![image](https://github.com/user-attachments/assets/1aec262e-8a7c-4599-acc2-7e90772dcbc1)
 
 ---
 
